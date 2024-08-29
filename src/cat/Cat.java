@@ -1,7 +1,7 @@
 package cat;
 
 public class Cat {
-    private String name;
+     String name;
     private String breeds;
     private double weight;
 
